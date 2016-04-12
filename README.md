@@ -1,4 +1,11 @@
-# Ass2---Unemployment
+---
+title: "Ass2- Unemployment Rate"   
+author: "Tomer Belzer & Tomer Segal"   
+date: "April 12, 2016"   
+output: html_document
+---
+
+# Ass2- Unemployment Rate
 ##Dataset Description:
 The dataset is Categorized by Countries.
 For each country The details are: it's continent,whether it's in the OECD or not, and the unemployment rate for each year beginning at 2000 ending at 2014
